@@ -1,8 +1,8 @@
-<h1 align="center">yes 👋</h1>
+<h1 align="center">readmegenerator</h1>
   
- ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
+ ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
  ## Description
- 🔍 test
+ something somtehting
  ## Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -12,20 +12,20 @@
  - [Tests](#tests)
  - [Questions](#questions)
  ## Installation
- 💾 undefined
+ npm i 
  ## Usage
- 💻 undefined
+ install node js before usage
  ## License
- ![badge](https://img.shields.io/badge/license-undefined-yellow)
+ ![badge](https://img.shields.io/badge/license-MIT-yellow)
  <br />
- This application is covered by the undefined license. 
+ This application is covered by the MIT license. 
  ## Contributing
- 👪 undefined
+ undefined
  ## Tests
- ✏️ undefined
+npm test
  ## Questions
- ✋ undefined<br />
+ email ne<br />
  <br />
-Find me on GitHub: [undefined](https://github.com/undefined)<br />
+Find me on GitHub: [sayamgautam1](https://github.com/sayamgautam1)<br />
  <br />
- ✉️ Email me with any questions: undefined<br /><br />
+ ✉️ Email me with any questions: sayamgautam1@gmail.com<br /><br />

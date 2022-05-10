@@ -36,7 +36,7 @@ function generateMarkdown(data) {
  ## Contributing
  ${data.contributing}
  ## Tests
- ✏️ ${data.tests}
+ ${data.tests}
  ## Questions
  ${data.questions}<br />
  <br />
