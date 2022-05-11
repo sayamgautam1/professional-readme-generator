@@ -8,7 +8,7 @@ Below is the gif showing the functionality of the application:
 ![readmegenerator gif](./assests/readmegenerator.gif)
 
 The full movie file showing functionality of the application is listed below
-[full video](./assests/readmegenerator.mov)
+[full video](https://youtu.be/ZVoV3oZ3N5I)
 
 ## User Story
 
