@@ -18,8 +18,6 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
 
-````
-
 ## Acceptance Criteria
 
 ```md
@@ -79,4 +77,3 @@ email me if any questions<br />
 Find me on GitHub: [sayamgautam1](https://github.com/sayamgautam1)<br />
 <br />
 Email me with any questions: sayamgautam1@gmail.com<br /><br />
-````
