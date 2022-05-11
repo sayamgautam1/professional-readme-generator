@@ -1,8 +1,8 @@
-<h1 align="center">readmegenerator</h1>
+<h1>Read Me Generator</h1>
   
- ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+ ![badge](https://img.shields.io/badge/license-MIT-yellow)<br />
  ## Description
- something somtehting
+ create instant readme file with specific details provided via node.js
  ## Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -14,7 +14,7 @@
  ## Installation
  npm i 
  ## Usage
- install node js before usage
+ creating readme file in an instant
  ## License
  ![badge](https://img.shields.io/badge/license-MIT-yellow)
  <br />
@@ -22,9 +22,9 @@
  ## Contributing
  undefined
  ## Tests
-npm test
+ none 
  ## Questions
- email ne<br />
+ contact via email <br />
  <br />
 Find me on GitHub: [sayamgautam1](https://github.com/sayamgautam1)<br />
  <br />
